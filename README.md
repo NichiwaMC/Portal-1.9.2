@@ -5,7 +5,7 @@ So, if you're wanting to use this template for your website, you'll need a webse
 
 You're not allowed to 'steal' this template and post it ANYWHERE else.
 The offical links for this template are:
-  https://github.com/HanzzXD/xylosnet
+  https://github.com/HanzzXD/Portal-1.9.2
   
 And for the live demo:
   https://www.xylosnetworkmc.my.id/
